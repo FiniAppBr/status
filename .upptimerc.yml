@@ -10,8 +10,6 @@ sites:
     url: https://app.violaoacademy.com.br/api/v1/utils/health-check/
   - name: Admin
     url: https://admin.violaoacademy.com.br/
-  - name: Do Zero ao Fingerstyle
-    url: https://dozeroaofingerstyle.com.br/
 
 # O repo é público; não reescrever descrição, tópicos e homepage a cada rodada
 skipDescriptionUpdate: true
